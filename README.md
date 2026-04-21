@@ -100,8 +100,10 @@ Desenvolver um protótipo funcional de uma plataforma que permita gerir e valida
 
 ## 📅 Planeamento e Entregáveis
 
-<img width="760" height="539" alt="image" src="https://github.com/user-attachments/assets/6e80c3e9-b3dc-41b0-89fd-8e5c93e52068" />
-<img width="1027" height="402" alt="image" src="https://github.com/user-attachments/assets/d55de9b9-6dc3-4c01-88c6-6d0a5614947b" />
+<img width="418" height="392" alt="image" src="https://github.com/user-attachments/assets/b02d6d99-b05a-4d47-8c3d-44ba8e19216d" />
+
+<img width="1006" height="402" alt="image" src="https://github.com/user-attachments/assets/a4ebed05-af03-4035-a368-ba5b57173648" />
+
 
 * **📅 Março 2026:** Arquitetura e Base de Dados.
 * **📅 Abril 2026:** Frontend e Autenticação.
