@@ -138,24 +138,32 @@ O CivicShield permite:
 
 ## Referências
 
-- Meier, P. (2012). Digital Humanitarians  
-- Gao et al. (2011). Social media in disasters  
-- Zook et al. (2010). Volunteered Geographic Information  
+Gao, H., Barbier, G., & Goolsby, R. (2011). Harnessing the crowdsourcing power of social media for disaster relief. *IEEE Intelligent Systems*, 26(3), 10–14.
+
+Meier, P. (2012). *Digital humanitarians: How big data is changing the face of humanitarian response*. Routledge.
+
+Zook, M., Graham, M., Shelton, T., & Gorman, S. (2010). Volunteered geographic information and crowdsourcing disaster relief: A case study of the Haitian earthquake. *World Medical & Health Policy*, 2(2), 7–33.
 
 ### Documentação
-- https://react.dev/  
-- https://supabase.com/docs  
-- https://postgis.net/docs/  
-- https://leafletjs.com/  
-- https://www.postgresql.org/docs/current/ddl-rowsecurity.html  
 
+Leaflet JS Authors. (2026). *Leaflet: An open-source JavaScript library for interactive maps*. https://leafletjs.com/
+
+PostGIS Steering Committee. (2026). *PostGIS documentation*. https://postgis.net/docs/
+
+PostgreSQL Global Development Group. (2026). *Row level security policies*. https://www.postgresql.org/docs/current/ddl-rowsecurity.html
+
+React Open Source Team. (2026). *React documentation*. https://react.dev/
+
+Supabase. (2026). *Supabase documentation*. https://supabase.com/docs
 ---
 
 ## Autores
 
-- Catarina Sofia Coelho Cardoso  
-- Ruben Marcelo Pinto Frias Ferreira  
-- Sofia Rebolo Leandro  
+| Nome | Nº Estudante | Email |
+|---|---|---|
+| Catarina Sofia Coelho Cardoso | 20231654 | 20231654@iade.pt |
+| Ruben Marcelo Pinto Frias Ferreira | 20231584 | 20231584@iade.pt |
+| Sofia Rebolo Leandro | 20231604 | 20231604@iade.pt |
 
 ---
 
